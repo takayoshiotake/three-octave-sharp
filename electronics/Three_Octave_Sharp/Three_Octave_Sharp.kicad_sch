@@ -6,7 +6,7 @@
 
   (title_block
     (title "Three Octave #")
-    (date "2024-01-07")
+    (date "2024-01-xx")
     (rev "0.1.0")
     (comment 1 "https://github.com/takayoshiotake/three-octave-sharp-38-key-keyboard")
   )
