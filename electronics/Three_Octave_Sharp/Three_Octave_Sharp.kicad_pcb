@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "Three Octave #")
-    (date "2024-01-xx")
-    (rev "0.1.0")
+    (title "Three Octave Sharp")
+    (date "2024-01-25")
+    (rev "1.0.0")
     (comment 1 "https://github.com/takayoshiotake/three-octave-sharp-38-key-keyboard")
   )
 
@@ -7998,7 +7998,7 @@
   (gr_text "B" (at 100.0125 98.375) (layer "F.SilkS") (tstamp 5d587b5a-7ff6-478f-bb05-3e8643c49af9)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
-  (gr_text "0.1.0+202401xx" (at 160.6625 100.0625) (layer "F.SilkS") (tstamp d8fab614-853b-4880-aef3-96faf6dcdb7a)
+  (gr_text "1.0.0+20240125" (at 160.6625 100.0625) (layer "F.SilkS") (tstamp d8fab614-853b-4880-aef3-96faf6dcdb7a)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp 2ab4b18d-d9ac-412b-8677-1f7d90fefba9)
