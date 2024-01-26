@@ -5,9 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "Three Octave #")
-    (date "2024-01-xx")
-    (rev "0.1.0")
+    (title "Three Octave Sharp")
+    (date "2024-01-25")
+    (rev "1.0.0")
     (comment 1 "https://github.com/takayoshiotake/three-octave-sharp-38-key-keyboard")
   )
 
@@ -4253,7 +4253,7 @@
     (property "Datasheet" "~" (at 57.785 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C352446" (at 57.785 157.48 0)
+    (property "LCSC" "C25100" (at 57.785 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid eca218b8-807f-43e5-902a-68e89c85ebae))
@@ -4907,7 +4907,7 @@
     (property "Datasheet" "~" (at 52.705 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C352446" (at 52.705 152.4 0)
+    (property "LCSC" "C25100" (at 52.705 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ae31ca6a-6cb8-4702-9aff-9150f670d093))
