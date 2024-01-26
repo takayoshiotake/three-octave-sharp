@@ -24,3 +24,27 @@ MEMO: When pressed individually and released, it becomes the lower right keys (E
 ```
 
 - 🔗 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+
+## BOM
+
+WIP
+
+## Schematic and PCB
+
+📄 [Three_Octave_Sharp.kicad_sch](electronics/Three_Octave_Sharp/Three_Octave_Sharp.kicad_sch) (v1.0.0)
+
+📄 [Three_Octave_Sharp.kicad_pcb](electronics/Three_Octave_Sharp/Three_Octave_Sharp.kicad_pcb) (v1.0.0)
+
+![schematic svg](assets/schematic.svg)
+
+![pcb png](assets/pcb.png)
+
+## Mechanics
+
+📄 [Three-Octave-Sharp-Case.FCStd](mechanics/Three-Octave-Sharp-Case.FCStd) (v1.0.0)
+
+## Firmware
+
+### Vial
+
+WIP
