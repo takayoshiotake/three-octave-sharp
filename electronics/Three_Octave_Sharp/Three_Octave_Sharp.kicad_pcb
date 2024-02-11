@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Three Octave Sharp")
-    (date "2024-01-25")
-    (rev "1.0.0")
+    (date "2024-02-11")
+    (rev "1.0.1")
     (comment 1 "https://github.com/takayoshiotake/three-octave-sharp-38-key-keyboard")
   )
 
