@@ -49,5 +49,8 @@ WIP
 
 - Built UF2
     - 📄 [takayoshiotake_three_octave_sharp_vial_20240210.uf2](vial-bin/takayoshiotake_three_octave_sharp_vial_20240210.uf2)
+- Code
+    - 🔗 <https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/takayoshiotake/three_octave_sharp>
+    - 🔗 <https://github.com/vial-kb/vial-qmk/tree/b29263fe69614069683445c98245ff0ea01a81b0>
 
 See [vial-porting](vial-porting) for more details.
