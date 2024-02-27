@@ -41,7 +41,7 @@ WIP
 
 ## Mechanics
 
-📄 [Three-Octave-Sharp-Case.FCStd](mechanics/Three-Octave-Sharp-Case.FCStd) (v1.0.1)
+📄 [Three-Octave-Sharp-Case.FCStd](mechanics/Three-Octave-Sharp-Case.FCStd) (v1.0.2)
 
 ## Firmware
 
