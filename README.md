@@ -1,5 +1,7 @@
 # Three Octave \#
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 A 38-key (3-octave + 1) keyboard.
 
 ## Layout
@@ -54,3 +56,14 @@ WIP
     - 🔗 <https://github.com/vial-kb/vial-qmk/tree/b29263fe69614069683445c98245ff0ea01a81b0>
 
 See [vial-porting](vial-porting) for more details.
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
