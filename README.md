@@ -50,7 +50,7 @@ WIP
 ### Vial
 
 - Built UF2
-    - 📄 [takayoshiotake_three_octave_sharp_vial_20240305.uf2](vial-bin/takayoshiotake_three_octave_sharp_vial_20240305.uf2)
+    - 📄 [takayoshiotake_three_octave_sharp_vial_20240407.uf2](vial-bin/takayoshiotake_three_octave_sharp_vial_20240407.uf2)
 - Code
     - 🔗 <https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/takayoshiotake/three_octave_sharp>
     - 🔗 <https://github.com/vial-kb/vial-qmk/tree/bbaed80505cf4ceaeb51d1e5fe79b23b22acf1a6>
