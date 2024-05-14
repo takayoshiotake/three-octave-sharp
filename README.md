@@ -6,23 +6,37 @@ A 38-key (3-octave + 1) keyboard.
 
 ## Layout
 
-**Layer 0**:
+v0.3.0
 
-📄 [keyboard-layout.png](layout/keyboard-layout.png) (v0.2.0)
+**Layer 0**:
 
 ![keyboard layout](layout/keyboard-layout.png)
 
-MEMO: When pressed individually and released, it becomes the lower right keys (Esc, 英数 and かな).
+MEMO: I couldn't figure out how to map keys to `fn` on macOS using Vial, so I am using Karabiner-Elements, a macOS app, to modify `right_control` to `fn`.
+
+**Layer 1, 2**: arrows, symbols
+
+![keyboard layout 1](layout/keyboard-layout-1.png)
+![keyboard layout 2](layout/keyboard-layout-2.png)
+
+**Layer 3, 4**: nums, symbols
+
+![keyboard layout 3](layout/keyboard-layout-3.png)
+![keyboard layout 4](layout/keyboard-layout-4.png)
+
+**Layer 5**: fn
+
+![keyboard layout 5](layout/keyboard-layout-5.png)
 
 **RAW data for Keyboard Layout Editor v0.15:**
 
 📄 [keyboard-layout.rawdata.json](layout/keyboard-layout.rawdata.json)
 
 ```json
-["MO(2)\n\n\nEsc","Q","W","E","R","T","Y","U","I","O","P","BS"],
-[{"w":1.25},"MO(1)\n\n\nTab","A","S","D","F","G","H","J","K","L",{"w":1.75},"MO(4)\n\n\nReturn"],
-[{"w":1.75},"Shift","Z","X","C","V","B","N","M","MO(5)",{"w":2.25},"MO(3)"],
-[{"x":0.75,"w":1.25},"Ctrl",{"w":1.25},"Cmd\n\n\n英数",{"a":7,"w":6},"6u",{"a":4},"Opt\n\n\nかな","Ctrl"]
+[{a:1},"LT 2\nEsc",{a:7},"Q","W","E","R","T","Y","U","I","O","P","Bksp"],
+[{a:1,w:1.25},"LT 1\nTab",{a:7},"A","S","D","F","G","H","J","K","L",{a:1,w:1.75},"LT 4\nEnter"],
+[{a:7,w:1.75},"LShift","Z","X","C","V","B","N","M","MO(5)",{w:2.25},"MO(3)"],
+[{x:0.75,w:1.25},"LCtrl",{a:1,w:1.25},"LGui_T\n英数",{a:7,w:6},"6u",{a:1},"RAlt_T\nかな",{a:7},"RCtrl"],
 ```
 
 - 🔗 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
