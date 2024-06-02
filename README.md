@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A 38-key (3-octave + 1) keyboard.
+A 38-key (3-octave + 1) keyboard. Powered by [Vial](https://get.vial.today/) firmware.
 
 ## Layout
 
@@ -54,6 +54,15 @@ WIP
 ![schematic svg](assets/schematic.svg)
 
 ![pcb png](assets/pcb.png)
+
+### Key-matrix
+
+|    | C0    | C1   | C2    | C3 | C4 | C5 | C6 | C7 | C8 | C9    | C10    | C11 |
+|----|-------|------|-------|----|----|----|----|----|----|-------|--------|-----|
+| R0 | Esc   | Q    | W     | E  | R  | T  | Y  | U  | I  | O     | P      | BS  |
+| R1 | Tab   | A    | S     | D  | F  | G  | H  | J  | K  | L     | Return |     |
+| R2 | Shift | Z    | X     | C  | V  | B  | N  | M  | ,  | Shift | Opt    | Fn  | 
+| R3 | Ctrl  | Cmd  | Space |    |    |    |    |    |    |       |        |     |
 
 ## Mechanics
 
