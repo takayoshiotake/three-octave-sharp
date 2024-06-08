@@ -43,6 +43,39 @@ MEMO: I couldn't figure out how to map keys to `fn` on macOS using Vial, so I am
 
 ## BOM
 
+| Material | QTY | Note |
+|-|-:|-|
+| Three Octave Sharp PCBA | 1 | |
+| Three Octave Sharp Case | 1 | |
+| B-0204 | 4 | Screw M2 L4, Hirosugi |
+| SIS-2039-05 | 4 | Washer d2 D3.9 t0.5, Hirosugi |
+| LUW-0204-075 | 4 | Washer d2.2 D4 t0.075, Hirosugi |
+
+### Three Octave Sharp PCBA
+
+| Material | Symbol | QTY | Note |
+|-|-|-:|-|
+| Three Octave Sharp PCB | - | 1 | |
+| 30pF 402 | C1, C2 | 2 | C1570 |
+| 1uF 402 | C3, C4 | 2 | C52923 |
+| 100nF 402 | C5-C14 | 10 | C307331 |
+| 10uF 402 | C15, C16 | 2 | C15525 |
+| HRO_TYPE-C-31-M-12 | J1 | 1 | C165948; USB Type-C Connector, Korean Hroparts Elec |
+| 10KΩ 0402 | R1, R3 | 2 | C25744 |
+| 1KΩ 0402 | R2, R4 | 2 | C11702 |
+| 27Ω 0402 | R5, R6 | 2 | C352446 |
+| 5.1KΩ 0402 | R7, R8 | 2 | C25905 |
+| Hot_Swap_Socket_CPG151101S11 | SW1-SW38 | 38 | C5156480; How Swap Socket, Kailh |
+| SKRPANE010 | SW_B1, SW_R1 | 2 | C470426; Tactile Switch, ALPS ALPINE |
+| RP2040 | U1 | 1 | C2040; MCU, Raspberry Pi |
+| W25Q64JVXGIQ | U2 | 1 | C2940195, 64M-bit Serial Flash, Winbond Electronics |
+| AP2112K-3.3TRG1 | U3 | 1 | C51118, 3.3V Linear Voltage Regulators |
+| X322512MSB4SI | Y1 | 1 | C9002, 12MHz 20pF Crystal Resonator, SMD-3225, Yangxing Tech |
+
+📁 [production_data (for JLCPCB at 2024-01-25)](electronics/Three_Octave_Sharp/production/Three_Octave_Sharp_1.0.0_2024-01-25_19-34-58)
+
+### Three Octave Sharp Case
+
 WIP
 
 ## Schematic and PCB
