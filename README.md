@@ -4,6 +4,8 @@
 
 A 38-key (3-octave + 1) keyboard. Powered by [Vial](https://get.vial.today/) firmware.
 
+This keyboard is based on a 60% column staggered keyboard like the HHKB, which omits the number and symbol keys to reduce the number of keys to 38.
+
 ## Layout
 
 v0.3.0
