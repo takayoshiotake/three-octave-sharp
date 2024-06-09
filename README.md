@@ -99,7 +99,23 @@ WIP
 
 ## Mechanics
 
-📄 [Three-Octave-Sharp-Case.FCStd](mechanics/Three-Octave-Sharp-Case.FCStd) (v1.0.3)
+The case also functions as a plate.
+
+- 📄 [Three-Octave-Sharp-Case.FCStd](mechanics/Three-Octave-Sharp-Case.FCStd) (v1.0.3)
+    - 📄 [Three-Octave-Sharp-Case-Top.step](mechanics/Three-Octave-Sharp-Case-Top.step)
+    - 📄 [Three-Octave-Sharp-Case-Bottom.step](Three-Octave-Sharp-Case-Bottom.step)
+
+<div style="display: grid; gap: 1px; grid-template: 'a0 a0 a0 a0' 'a2t a2t a2b a2b' 'a5t a5t a5b a5b' 'a1 a3 a4 a6';">
+<img src="assets/case_0.png" style="grid-area: a0;" />
+<img src="assets/case_1.png" style="grid-area: a1;"/>
+<img src="assets/case_2t.png" style="grid-area: a2t;" />
+<img src="assets/case_2b.png" style="grid-area: a2b;"/>
+<img src="assets/case_3.png" style="grid-area: a3;"/>
+<img src="assets/case_4.png" style="grid-area: a4;"/>
+<img src="assets/case_5t.png" style="grid-area: a5t;"/>
+<img src="assets/case_5b.png" style="grid-area: a5b;"/>
+<img src="assets/case_6.png" style="grid-area: a6;"/>
+</div>
 
 ## Firmware
 
